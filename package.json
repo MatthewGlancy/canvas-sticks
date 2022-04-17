@@ -1,0 +1,11 @@
+{
+  "name": "canvas-sticks",
+  "version": "0.0.1",
+  "description": "Candle stick data to canvas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ukmatty73@gmail.com",
+  "license": "ISC"
+}
